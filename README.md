@@ -1,2 +1,2 @@
-# child-care-management-System-
-child  Day Care Management
+# Child-care-management-System-
+Child  Day Care Management
